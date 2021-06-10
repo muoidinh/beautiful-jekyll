@@ -20,4 +20,4 @@ What else do you need?
 
 ### Facebook
 
-Để cập nhật thêm nhiều thông tin vui lòng truy cập [Facebook](https://www.facebook.com/DienCoMuoiDinh) ---- **Cám ơn** bạn đã ghé thăm.
+Để cập nhật thêm nhiều thông tin vui lòng truy cập [Facebook](https://www.facebook.com/DienCoMuoiDinh) - **Cám ơn bạn** đã ghé thăm.
