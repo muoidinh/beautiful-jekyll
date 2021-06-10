@@ -1,16 +1,23 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Liên hệ
+subtitle: Số điện thoại liên lạc
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mọi thắc mắc bạn có thể liên hệ theo:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Kinh doanh: 0985907242
+
+- Kỹ thuật viên sữa chửa: 077277519 (Hiếu) – 0932994923 (Đạt)
+
+- Bảo hành – CSKH: 0909915539 (Tí)
+
+- Góp ý: 0909240402
+
+- Admin: 0938794919
 
 What else do you need?
 
-### My story
+### Facebook
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Để cập nhật thêm nhiều thông tin vui lòng truy cập [Facebook](https://www.facebook.com/DienCoMuoiDinh) ---- **Cám ơn** bạn đã ghé thăm.
